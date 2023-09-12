@@ -1,0 +1,62 @@
+{
+    "alarms": [
+        {
+            "date": "2023-09-15T13:15:00.000Z"
+        }
+    ],
+    "startDate": "2023-09-15T12:45:00.000Z",
+    "endDate": "2023-09-15T14:15:00.000Z",
+    "availability": "busy",
+    "description": "-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/kmb-ippe-cfv\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-",
+    "calendar": {
+        "allowsModifications": true,
+        "allowedAvailabilities": [
+            "busy",
+            "free"
+        ],
+        "source": "vanelladev@gmail.com",
+        "type": "com.google",
+        "title": "vanelladev@gmail.com",
+        "isPrimary": true,
+        "color": "#9FE1E7",
+        "id": "12"
+    },
+    "location": "",
+    "attendees": [
+        {
+            "identity": null,
+            "status": "1",
+            "relationship": "2",
+            "id_namespace": null,
+            "type": "1",
+            "email": "vanelladev@gmail.com",
+            "name": ""
+        },
+        {
+            "identity": null,
+            "status": "3",
+            "relationship": "1",
+            "id_namespace": null,
+            "type": "1",
+            "email": "muhammaddzakiardiansyah811@gmail.com",
+            "name": ""
+        },
+        {
+            "identity": null,
+            "status": "1",
+            "relationship": "1",
+            "id_namespace": null,
+            "type": "1",
+            "email": "rhezaardiansyah222@gmail.com",
+            "name": ""
+        }
+    ],
+    "allDay": false,
+    "recurrence": "weekly",
+    "title": "Weekly Meeting - PUBLIKA.ID",
+    "id": "210",
+    "recurrenceRule": {
+        "duration": "P5400S",
+        "frequency": "weekly"
+    }
+}
